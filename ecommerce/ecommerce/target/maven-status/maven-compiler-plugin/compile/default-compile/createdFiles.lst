@@ -1,0 +1,10 @@
+com\eilco\ecommerce\repository\ProductRepository.class
+com\eilco\ecommerce\dto\ProductRequest.class
+com\eilco\ecommerce\EcommerceApplication.class
+com\eilco\ecommerce\dto\ProductResponse$ProductResponseBuilder.class
+com\eilco\ecommerce\service\ProductService.class
+com\eilco\ecommerce\model\entities\Product.class
+com\eilco\ecommerce\dto\ProductRequest$ProductRequestBuilder.class
+com\eilco\ecommerce\dto\ProductResponse.class
+com\eilco\ecommerce\model\entities\Product$ProductBuilder.class
+com\eilco\ecommerce\controller\ProductController.class
